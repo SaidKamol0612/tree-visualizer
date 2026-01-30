@@ -22,7 +22,7 @@ A tool for visualizing the folder structure as a tree.
    ./tree-visualizer /path/to/directory
    ```
 
-   or To set name to root directory use -r flag:
+   or To set name to root directory use `-r` flag:
 
    ```bash
     ./tree-visualizer /path/to/directory -r <root_name>
